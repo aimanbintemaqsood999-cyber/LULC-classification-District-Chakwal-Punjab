@@ -37,4 +37,3 @@ Google Earth Engine (JavaScript), [ArcGIS 10.8 for the final layout]
 - Median composite of one year (2025) mixes seasons, which can blur vegetation and bareland in agricultural areas.
 - The strict 1% cloud filter leaves few scenes, so the composite may use limited dates.
 - Training and validation pixels come from the same polygons, so accuracy may be somewhat optimistic.
-- No independent field validation.
