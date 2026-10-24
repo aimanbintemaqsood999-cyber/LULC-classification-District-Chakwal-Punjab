@@ -1,4 +1,4 @@
-# LULC Mapping of Chakwal District Using Landsat 8 and Random Forest (2020)
+# LULC Mapping of Chakwal District Using Landsat 8 and Random Forest (2025)
 
 ![LULC map of Chakwal](lulc_chakwal_map.png)
 
