@@ -1,6 +1,6 @@
 # LULC Mapping of Chakwal District Using Landsat 8 and Random Forest (2025)
 
-![LULC map of Chakwal](LULC Map of Chakwal.png)
+![LULC map of Chakwal](LULC_Map_of_Chakwal.png)
 
 ## Overview
 Land Use / Land Cover (LULC) classification of Chakwal District, Punjab, Pakistan, using a 2025 Landsat 8 median composite and a Random Forest classifier in Google Earth Engine. Four classes were mapped: water, vegetation, bareland and built-up.
