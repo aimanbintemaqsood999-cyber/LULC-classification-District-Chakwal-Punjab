@@ -7,9 +7,9 @@ Land Use / Land Cover (LULC) classification of Chakwal District, Punjab, Pakista
 
 ## Data
 - Landsat 8 Collection 2 Level 2 surface reflectance (`LANDSAT/LC08/C02/T1_L2`), 30 m
-- Period: 1 January - 31 December 2020, scenes with less than 1% cloud cover
-- Study area: Chakwal District boundary [add source]
-- Training samples: polygons digitized manually in GEE, [number] per class
+- Period: 1 January - 31 December 2025, scenes with less than 1% cloud cover
+- Study area: Chakwal District boundary 
+- Training samples: polygons digitized manually in GEE, number vary per class
 
 ## Method
 1. Filtered Landsat 8 scenes to the study area, the year 2025 and cloud cover below 1%.
